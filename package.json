@@ -1,0 +1,22 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "my first electron project",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzolpandolfo/electron-test.git"
+  },
+  "author": "Lorenzo Pandolfo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorenzolpandolfo/electron-test/issues"
+  },
+  "homepage": "https://github.com/lorenzolpandolfo/electron-test#readme",
+  "devDependencies": {
+    "electron": "^30.0.5"
+  }
+}
